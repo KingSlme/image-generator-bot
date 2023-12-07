@@ -7,7 +7,7 @@ A discord bot that uses Unsplash API to generate images.
 
 ## Commands
 
-### /command
+### /image
 ```
 /image <image>
 ```
